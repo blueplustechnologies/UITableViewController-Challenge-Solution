@@ -1,5 +1,5 @@
 //
-//  XYZViewController.h
+//  XYZTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by mac user on 14/05/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface XYZViewController : UIViewController
+@interface XYZTableViewController : UITableViewController
 
 @end
